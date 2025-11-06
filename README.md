@@ -11,25 +11,22 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Senior Engineer** with over **20 years** of hands-on coding experience, specializing in Java and PHP. I take pride in being a **problem solver** and an **open-source advocate**. I'm always eager to learn and share what I find.
+Senior Engineer with over 20 years of hands-on coding experience, specializing in Java and PHP. I focus on building practical tools and workflows for web development and automation.
 
 ```javascript
 const dilantha = {
-    pronouns: "he/him",
     code: ["Java", "PHP", "JavaScript", "Python", "Shell"],
     focus: "Building tools and workflows for web development & automation",
     architecture: ["Microservices", "Event-Driven", "Serverless"],
-    currentlyLearning: ["Cloud-Native Technologies", "AI/ML Integration"],
-    askMeAbout: ["Web Dev", "DevOps", "System Architecture", "Open Source"],
-    funFact: "I've been coding since before Git was invented!"
+    interests: ["Web Development", "DevOps", "System Architecture", "Open Source"]
 };
 ```
 
 ---
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 ### Backend Development
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -57,7 +54,7 @@ const dilantha = {
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -71,27 +68,16 @@ const dilantha = {
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🔨 Building robust tools and workflows for modern web development
-- 🚀 Exploring cloud-native technologies and containerization
-- 🤝 Contributing to open-source projects
-- 📚 Sharing knowledge through blog posts and documentation
-- 🌱 Learning emerging technologies in the DevOps ecosystem
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dilantha&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
+- Building tools and workflows for modern web development
+- Exploring cloud-native technologies and containerization
+- Contributing to open-source projects
+- Sharing knowledge through documentation
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -105,10 +91,6 @@ const dilantha = {
 
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dilantha&theme=radical&hide_border=true)
-
-**Thanks for visiting! Let's build something amazing together.** 🚀
 
 </div>
